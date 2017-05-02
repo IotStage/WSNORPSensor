@@ -1,0 +1,23 @@
+ #######################################
+# Syntax Coloring Map For ORP lib
+######################################## 
+# Class
+#######################################
+
+ORP	KEYWORD1
+WSNORPSensor KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+init KEYWORD2
+moyenne KEYWORD2
+getMesure KEYWORD2
+updateORP KEYWORD2
+
+
+#######################################
+# Constants
+#######################################
+
+SensorPinORP LITERAL1
