@@ -25,7 +25,7 @@ public:
 	void updateORP();
 	//~ORP();
 	void init(uint8_t offset, uint8_t mesure, uint32_t convertion,uint8_t taille);
-	uint16_t moyenne(uint8_t* arr, uint8_t number);
+	//uint16_t moyenne(uint8_t* arr, uint8_t number);
 	uint8_t getMesure();
 private:
 	uint8_t _sensorPin;
